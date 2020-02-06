@@ -14,6 +14,7 @@ storybook-static
 
 # misc
 .DS_Store
+.uxpin-merge
 npm-debug.log
 yarn-error.log
 
